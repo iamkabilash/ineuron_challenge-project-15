@@ -107,7 +107,7 @@ nav{
 .skill{
     width: 220px;
     height: 250px;
-    background-color: #363636;
+    background-color: #202020;
     padding: 30px;
     margin: 30px;
     border-radius: 8px;
@@ -158,7 +158,7 @@ nav{
 }
 .element{
     margin-top: 20px;
-    background-color: #363636;
+    background-color: #202020;
     height: 100px;
     text-align: center;
     display: flex;
@@ -214,7 +214,7 @@ nav{
     width: 400px;
     height: 230px;
     padding: 40px 20px;
-    background-color: #363636;
+    background-color: #202020;
     border-radius: 5px;
     cursor: pointer;
 }
@@ -243,6 +243,9 @@ nav{
     padding: 40px 20px;
     border-radius: 5px;
     color:#fff;
+    background-color: #202020;
+    margin-right: 200px;
+    margin-left: 200px;
 }
 .work-space{
     width: 300px;
@@ -266,7 +269,7 @@ footer{
     height: 100px;
     display: flex;
     flex-direction: row;
-    background-color: #ff;
+    background-color: #202020;
     align-items: center;
 }
 footer .footer-logo{
